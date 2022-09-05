@@ -1,86 +1,15 @@
-body {
-  font-family: "Roboto", sans-serif;
-  background: #ffffff;
-}
-h1 {
-  position: static;
-  padding-top: 100px;
-  padding-bottom: 30px;
+.App {
   text-align: center;
-  font-weight: 700px;
-  color: #222831;
-}
-div.col-7 {
-  display: block;
-  margin: 0 auto;
-  padding-bottom: 20px;
+  font-family: arial, sans-serif;
   text-align: center;
-}
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-li {
-  margin: 0;
-  padding: 0;
-}
-.col {
-  max-width: 100px;
-  padding: 0 auto;
+  max-width: 700px;
   margin: 0 auto;
 }
-
-.city {
-  font-size: 34px;
-  color: #ec6e4c;
+.App h1 {
+  font-size: 40px;
+  padding-top: 60px;
 }
-.logo {
-  width: 100px;
-  height: 36px;
-  position: fixed;
-  top: 40px;
-  left: 60px;
-}
-.app {
-  padding: 15px;
-  margin: 20px;
-  max-width: 650px;
-  margin: 0 auto;
-  border-radius: 15px;
-}
-.temperature {
-  font-size: 50px;
-  line-height: 1;
-}
-.weather-week {
-  padding-top: 40px;
-  text-align: center;
-}
-.current-weather {
-  padding-top: 30px;
-}
-.search {
-  padding-bottom: 40px;
-}
-.description {
-  text-transform: capitalize;
-}
-p {
-  padding-top: 50px;
-  text-align: center;
-  font-size: 10px;
-}
-a {
-  color: #222831;
-  text-decoration: none;
-  background-color: none;
-}
-a:hover {
-  color: #ec6e4c;
-  text-decoration: none;
-  background-color: none;
-}
-container {
-  max-width: 600px;
+.App footer {
+  font-size: 11px;
+  margin: 10px 0;
 }
