@@ -8,7 +8,7 @@ export default function App() {
       <header>
         <h1>Weather Forecast</h1>
       </header>
-      <Weather />
+      <Weather defaultCity="Oslo" />
       <footer>
         This project was coded by Iryna Koval and is{" "}
         <a
