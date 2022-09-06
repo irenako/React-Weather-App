@@ -12,7 +12,7 @@ export default function App() {
       <footer>
         This project was coded by Iryna Koval and is{" "}
         <a
-          href="https://github.com/irenako/online-react-weather-app-koval"
+          href="https://github.com/irenako/React-Weather-App"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -20,7 +20,7 @@ export default function App() {
         </a>{" "}
         and{" "}
         <a
-          href="https://weather-application-irenakoval.netlify.app/"
+          href="https://react-weather-app-irena-koval.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
