@@ -53,3 +53,7 @@
   margin-bottom: 0;
   padding-bottom: 0;
 }
+.Weather canvas {
+  margin: 10px auto;
+  display: inline-block;
+}
