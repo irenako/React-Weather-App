@@ -13,3 +13,7 @@
   font-size: 11px;
   margin: 10px 0;
 }
+.App a {
+  color: #085ed6;
+  text-decoration: none;
+}
